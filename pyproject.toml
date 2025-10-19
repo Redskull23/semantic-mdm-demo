@@ -1,0 +1,18 @@
+[project]
+name = "mdm-demo"
+version = "0.1.0"
+description = "Semantic MDM Demo for Chick-fil-A Interview"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "streamlit>=1.28.0",
+    "pandas>=2.1.0",
+    "numpy>=1.24.0",
+    "plotly>=5.17.0",
+    "networkx>=3.1",
+    "sentence-transformers>=2.2.2",
+    "scikit-learn>=1.3.0",
+]
+
+[tool.uv]
+dev-dependencies = []

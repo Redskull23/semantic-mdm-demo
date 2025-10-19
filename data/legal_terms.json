@@ -1,0 +1,146 @@
+{
+  "domain": "Legal",
+  "description": "Legal department terminology and concepts",
+  "terms": [
+    {
+      "term": "ground lease",
+      "canonical": "Agreements > Real Estate > Ground Lease",
+      "definition": "A lease agreement where tenant leases land and owns improvements",
+      "related_terms": ["NNN lease", "triple net lease", "property lease"],
+      "use_cases": ["Site acquisition", "Lease compliance", "Contract review"]
+    },
+    {
+      "term": "NNN lease",
+      "canonical": "Agreements > Real Estate > Ground Lease",
+      "definition": "Triple net lease where tenant pays taxes, insurance, and maintenance",
+      "related_terms": ["triple net lease", "net lease", "ground lease"],
+      "use_cases": ["Real estate contracts", "Lease negotiations"]
+    },
+    {
+      "term": "triple net lease",
+      "canonical": "Agreements > Real Estate > Ground Lease",
+      "definition": "Lease where tenant assumes all property expenses",
+      "related_terms": ["NNN lease", "ground lease"],
+      "use_cases": ["Lease structuring", "Risk allocation"]
+    },
+    {
+      "term": "tenant obligations",
+      "canonical": "Agreements > Real Estate > Lease Terms",
+      "definition": "Contractual duties and responsibilities of the lessee",
+      "related_terms": ["lease covenants", "tenant responsibilities"],
+      "use_cases": ["Contract compliance", "Dispute resolution"]
+    },
+    {
+      "term": "lease liability",
+      "canonical": "Agreements > Real Estate > Ground Lease",
+      "definition": "Financial obligation under lease agreement",
+      "related_terms": ["rent obligation", "lease payment"],
+      "use_cases": ["Financial reporting", "ASC 842 compliance"]
+    },
+    {
+      "term": "property lease terms",
+      "canonical": "Agreements > Real Estate > Lease Terms",
+      "definition": "Conditions and provisions of property lease agreement",
+      "related_terms": ["lease provisions", "lease conditions"],
+      "use_cases": ["Contract drafting", "Lease amendments"]
+    },
+    {
+      "term": "real estate contract",
+      "canonical": "Agreements > Real Estate > Ground Lease",
+      "definition": "Legally binding agreement for real property",
+      "related_terms": ["property agreement", "real estate deal"],
+      "use_cases": ["Acquisitions", "Dispositions"]
+    },
+    {
+      "term": "franchise agreement",
+      "canonical": "Agreements > Franchise > Operator Agreement",
+      "definition": "Contract granting franchise rights to operator",
+      "related_terms": ["franchisee contract", "operator agreement"],
+      "use_cases": ["Operator onboarding", "Franchise compliance"]
+    },
+    {
+      "term": "operator contract",
+      "canonical": "Agreements > Franchise > Operator Agreement",
+      "definition": "Agreement between franchisor and restaurant operator",
+      "related_terms": ["franchise agreement", "franchisee agreement"],
+      "use_cases": ["Operator relations", "Territory rights"]
+    },
+    {
+      "term": "development rights",
+      "canonical": "Agreements > Development > Site Rights",
+      "definition": "Legal rights to develop property for restaurant use",
+      "related_terms": ["site development agreement", "construction rights"],
+      "use_cases": ["New market entry", "Expansion planning"]
+    },
+    {
+      "term": "jurisdictional compliance",
+      "canonical": "Legal > Compliance > Regulatory",
+      "definition": "Adherence to local laws and regulations",
+      "related_terms": ["regulatory compliance", "local requirements"],
+      "use_cases": ["Site approval", "Operating permits"]
+    },
+    {
+      "term": "lease amendment",
+      "canonical": "Agreements > Real Estate > Lease Terms",
+      "definition": "Modification to existing lease agreement",
+      "related_terms": ["contract modification", "lease revision"],
+      "use_cases": ["Lease renegotiation", "Term extensions"]
+    },
+    {
+      "term": "purchase option",
+      "canonical": "Agreements > Real Estate > Purchase Rights",
+      "definition": "Right to buy leased property at predetermined terms",
+      "related_terms": ["buy option", "acquisition right"],
+      "use_cases": ["Strategic acquisitions", "Asset ownership"]
+    },
+    {
+      "term": "legal entity structure",
+      "canonical": "Business Entities > Legal Entity > Corporate Structure",
+      "definition": "Corporate organization for legal and tax purposes",
+      "related_terms": ["corporate entity", "business structure"],
+      "use_cases": ["Entity formation", "Corporate governance"]
+    },
+    {
+      "term": "territory rights",
+      "canonical": "Agreements > Franchise > Territory Rights",
+      "definition": "Exclusive geographic area for franchise operation",
+      "related_terms": ["exclusive territory", "protected area"],
+      "use_cases": ["Franchise allocation", "Market protection"]
+    },
+    {
+      "term": "indemnification clause",
+      "canonical": "Agreements > Real Estate > Lease Terms",
+      "definition": "Contractual provision allocating risk and liability",
+      "related_terms": ["liability protection", "hold harmless"],
+      "use_cases": ["Risk management", "Contract negotiation"]
+    },
+    {
+      "term": "force majeure",
+      "canonical": "Agreements > General > Contract Terms",
+      "definition": "Unforeseen circumstances preventing contract performance",
+      "related_terms": ["acts of god", "extraordinary events"],
+      "use_cases": ["Contract disputes", "Performance excuses"]
+    },
+    {
+      "term": "assignment rights",
+      "canonical": "Agreements > Franchise > Transfer Rights",
+      "definition": "Right to transfer franchise or lease to another party",
+      "related_terms": ["transfer rights", "assignment clause"],
+      "use_cases": ["Operator transitions", "Franchise sales"]
+    },
+    {
+      "term": "zoning compliance",
+      "canonical": "Legal > Compliance > Land Use",
+      "definition": "Adherence to local zoning and land use regulations",
+      "related_terms": ["land use compliance", "zoning approval"],
+      "use_cases": ["Site development", "Permit acquisition"]
+    },
+    {
+      "term": "lease termination",
+      "canonical": "Agreements > Real Estate > Lease Terms",
+      "definition": "End of lease agreement by mutual consent or breach",
+      "related_terms": ["lease cancellation", "contract termination"],
+      "use_cases": ["Site closure", "Breach remedies"]
+    }
+  ]
+}

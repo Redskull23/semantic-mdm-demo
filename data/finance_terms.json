@@ -1,0 +1,86 @@
+{
+  "domain": "Finance",
+  "description": "Finance department terminology and concepts",
+  "terms": [
+    {
+      "term": "lease liability",
+      "canonical": "Agreements > Real Estate > Ground Lease",
+      "definition": "Financial obligation under ASC 842 lease accounting",
+      "related_terms": ["lease obligation", "right-of-use asset"],
+      "use_cases": ["Financial reporting", "Balance sheet management"],
+      "metrics": ["present_value", "lease_term", "discount_rate"]
+    },
+    {
+      "term": "rent obligation",
+      "canonical": "Agreements > Real Estate > Ground Lease",
+      "definition": "Contractual rent payment requirement",
+      "related_terms": ["lease payment", "occupancy cost"],
+      "use_cases": ["Cash flow planning", "Expense forecasting"],
+      "metrics": ["monthly_rent", "annual_rent", "escalation_rate"]
+    },
+    {
+      "term": "occupancy cost",
+      "canonical": "Agreements > Real Estate > Ground Lease",
+      "definition": "Total cost of occupying restaurant location",
+      "related_terms": ["location cost", "rent expense"],
+      "use_cases": ["P&L analysis", "Unit economics"],
+      "metrics": ["occupancy_percentage", "rent_as_percent_sales"]
+    },
+    {
+      "term": "location expense",
+      "canonical": "Agreements > Real Estate > Ground Lease",
+      "definition": "Costs associated with restaurant site",
+      "related_terms": ["site costs", "property expense"],
+      "use_cases": ["Budgeting", "Variance analysis"],
+      "metrics": ["total_expense", "expense_per_sqft"]
+    },
+    {
+      "term": "royalty agreement",
+      "canonical": "Agreements > Franchise > Operator Agreement",
+      "definition": "Contract defining franchise fee payments",
+      "related_terms": ["franchise fee agreement", "royalty contract"],
+      "use_cases": ["Revenue recognition", "Operator accounting"],
+      "metrics": ["royalty_rate", "monthly_royalty", "annual_fees"]
+    },
+    {
+      "term": "franchise fee",
+      "canonical": "Agreements > Franchise > Operator Agreement",
+      "definition": "Ongoing payment from franchisee to franchisor",
+      "related_terms": ["royalty fee", "franchise royalty"],
+      "use_cases": ["Revenue accounting", "Collections"],
+      "metrics": ["fee_percentage", "minimum_fee", "payment_frequency"]
+    },
+    {
+      "term": "capital expenditure",
+      "canonical": "Physical Assets > Location > Investment",
+      "definition": "Investment in new or existing restaurant assets",
+      "related_terms": ["capex", "capital investment"],
+      "use_cases": ["Investment planning", "Asset management"],
+      "metrics": ["total_capex", "roi", "payback_period"]
+    },
+    {
+      "term": "build cost",
+      "canonical": "Physical Assets > Location > Investment",
+      "definition": "Total cost to construct new restaurant",
+      "related_terms": ["construction cost", "development cost"],
+      "use_cases": ["Budget planning", "Investment approval"],
+      "metrics": ["cost_per_sqft", "total_project_cost", "cost_variance"]
+    },
+    {
+      "term": "unit economics",
+      "canonical": "Physical Assets > Location > Performance Data",
+      "definition": "Financial performance metrics at location level",
+      "related_terms": ["location P&L", "store economics"],
+      "use_cases": ["Profitability analysis", "Investment decisions"],
+      "metrics": ["revenue_per_unit", "margin_percent", "cash_flow"]
+    },
+    {
+      "term": "return on investment",
+      "canonical": "Physical Assets > Location > Performance Data",
+      "definition": "Financial return from restaurant investment",
+      "related_terms": ["ROI", "investment return"],
+      "use_cases": ["Site approval", "Portfolio optimization"],
+      "metrics": ["roi_percentage", "cash_on_cash_return", "irr"]
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "domain": "Restaurant Development",
+  "description": "Restaurant Development department terminology and concepts",
+  "terms": [
+    {
+      "term": "site lease",
+      "canonical": "Agreements > Real Estate > Ground Lease",
+      "definition": "Agreement to lease location for restaurant development",
+      "related_terms": ["location lease", "property lease"],
+      "use_cases": ["Site acquisition", "Development planning"],
+      "metrics": ["rent_per_sqft", "lease_term_years"]
+    },
+    {
+      "term": "location agreement",
+      "canonical": "Agreements > Real Estate > Ground Lease",
+      "definition": "Contract for restaurant site",
+      "related_terms": ["site agreement", "property deal"],
+      "use_cases": ["Real estate transactions", "Site selection"],
+      "metrics": ["location_score", "traffic_count"]
+    },
+    {
+      "term": "development site",
+      "canonical": "Physical Assets > Location > Development Site",
+      "definition": "Prospective location for new restaurant",
+      "related_terms": ["build site", "construction site", "new location"],
+      "use_cases": ["Pipeline management", "Site evaluation"],
+      "metrics": ["development_stage", "projected_open_date", "capex_budget"]
+    },
+    {
+      "term": "site agreement",
+      "canonical": "Agreements > Real Estate > Ground Lease",
+      "definition": "Binding agreement for restaurant location",
+      "related_terms": ["location contract", "site lease"],
+      "use_cases": ["Site commitments", "Development approvals"],
+      "metrics": ["agreement_status", "effective_date"]
+    },
+    {
+      "term": "property deal",
+      "canonical": "Agreements > Real Estate > Ground Lease",
+      "definition": "Real estate transaction for restaurant site",
+      "related_terms": ["real estate deal", "site transaction"],
+      "use_cases": ["Deal structuring", "Site acquisition"],
+      "metrics": ["deal_value", "roi_projection"]
+    },
+    {
+      "term": "real estate arrangement",
+      "canonical": "Agreements > Real Estate > Ground Lease",
+      "definition": "Agreement for property use or acquisition",
+      "related_terms": ["property arrangement", "site deal"],
+      "use_cases": ["Alternative site structures", "Creative deals"],
+      "metrics": ["arrangement_type", "financial_terms"]
+    },
+    {
+      "term": "restaurant location",
+      "canonical": "Physical Assets > Location > Restaurant Location",
+      "definition": "Operating or planned Chick-fil-A restaurant site",
+      "related_terms": ["store location", "restaurant site", "unit"],
+      "use_cases": ["Portfolio management", "Performance tracking"],
+      "metrics": ["sales_volume", "customer_count", "location_type"]
+    },
+    {
+      "term": "franchisee assignment",
+      "canonical": "Agreements > Franchise > Operator Agreement",
+      "definition": "Allocation of restaurant to specific operator",
+      "related_terms": ["operator assignment", "franchise allocation"],
+      "use_cases": ["Operator placement", "Territory management"],
+      "metrics": ["operator_experience", "multi_unit_status"]
+    },
+    {
+      "term": "operator designation",
+      "canonical": "Agreements > Franchise > Operator Agreement",
+      "definition": "Selection and appointment of restaurant operator",
+      "related_terms": ["operator selection", "franchisee designation"],
+      "use_cases": ["Operator recruitment", "Market assignments"],
+      "metrics": ["selection_criteria_score", "training_status"]
+    },
+    {
+      "term": "trade area",
+      "canonical": "Physical Assets > Market > Trade Area",
+      "definition": "Geographic area from which restaurant draws customers",
+      "related_terms": ["market area", "catchment area", "service area"],
+      "use_cases": ["Market analysis", "Site selection", "Cannibalization studies"],
+      "metrics": ["population", "household_income", "competition_index"]
+    },
+    {
+      "term": "site characteristics",
+      "canonical": "Physical Assets > Location > Site Attributes",
+      "definition": "Physical and operational features of location",
+      "related_terms": ["site features", "location attributes"],
+      "use_cases": ["Site evaluation", "Design planning"],
+      "metrics": ["lot_size", "parking_spaces", "visibility_score"]
+    },
+    {
+      "term": "development pipeline",
+      "canonical": "Physical Assets > Location > Development Pipeline",
+      "definition": "Portfolio of restaurants in various development stages",
+      "related_terms": ["project pipeline", "build queue"],
+      "use_cases": ["Capacity planning", "Growth tracking"],
+      "metrics": ["pipeline_count", "projected_openings", "stage_distribution"]
+    },
+    {
+      "term": "site performance metrics",
+      "canonical": "Physical Assets > Location > Performance Data",
+      "definition": "Key performance indicators for restaurant location",
+      "related_terms": ["location KPIs", "unit performance"],
+      "use_cases": ["Investment decisions", "Reinvestment planning"],
+      "metrics": ["sales_psf", "transaction_count", "drive_thru_times"]
+    },
+    {
+      "term": "market penetration",
+      "canonical": "Physical Assets > Market > Market Metrics",
+      "definition": "Density of restaurants in a geographic market",
+      "related_terms": ["market saturation", "store density"],
+      "use_cases": ["Growth planning", "Market strategy"],
+      "metrics": ["stores_per_capita", "market_share"]
+    },
+    {
+      "term": "prototype design",
+      "canonical": "Physical Assets > Location > Building Design",
+      "definition": "Standard restaurant building design and layout",
+      "related_terms": ["building prototype", "store design"],
+      "use_cases": ["Construction planning", "Design standards"],
+      "metrics": ["building_size", "seating_capacity", "kitchen_layout"]
+    },
+    {
+      "term": "site acquisition",
+      "canonical": "Physical Assets > Location > Development Process",
+      "definition": "Process of securing location for new restaurant",
+      "related_terms": ["land acquisition", "site procurement"],
+      "use_cases": ["Real estate strategy", "Expansion execution"],
+      "metrics": ["acquisition_cost", "time_to_close", "approval_status"]
+    },
+    {
+      "term": "traffic count",
+      "canonical": "Physical Assets > Market > Traffic Data",
+      "definition": "Volume of vehicular and pedestrian traffic near site",
+      "related_terms": ["vehicle count", "foot traffic"],
+      "use_cases": ["Site viability", "Sales forecasting"],
+      "metrics": ["daily_vehicles", "peak_hour_volume", "pedestrian_count"]
+    },
+    {
+      "term": "co-tenancy",
+      "canonical": "Physical Assets > Location > Site Context",
+      "definition": "Other businesses sharing property or shopping center",
+      "related_terms": ["neighboring tenants", "shopping center mix"],
+      "use_cases": ["Site evaluation", "Synergy analysis"],
+      "metrics": ["anchor_tenants", "center_occupancy", "traffic_drivers"]
+    },
+    {
+      "term": "site feasibility",
+      "canonical": "Physical Assets > Location > Development Process",
+      "definition": "Assessment of site viability for restaurant development",
+      "related_terms": ["site viability", "feasibility study"],
+      "use_cases": ["Go/no-go decisions", "Due diligence"],
+      "metrics": ["feasibility_score", "risk_rating", "pro_forma_return"]
+    },
+    {
+      "term": "construction timeline",
+      "canonical": "Physical Assets > Location > Development Process",
+      "definition": "Schedule for restaurant build-out and opening",
+      "related_terms": ["build schedule", "development timeline"],
+      "use_cases": ["Project management", "Opening coordination"],
+      "metrics": ["groundbreaking_date", "substantial_completion", "grand_opening"]
+    },
+    {
+      "term": "reinvestment",
+      "canonical": "Physical Assets > Location > Renovation",
+      "definition": "Capital investment in existing restaurant refresh or remodel",
+      "related_terms": ["renovation", "remodel", "refresh"],
+      "use_cases": ["Asset management", "Performance improvement"],
+      "metrics": ["reinvestment_amount", "roi_expected", "completion_date"]
+    },
+    {
+      "term": "market strategy",
+      "canonical": "Physical Assets > Market > Growth Strategy",
+      "definition": "Plan for restaurant development in geographic market",
+      "related_terms": ["growth plan", "market plan", "expansion strategy"],
+      "use_cases": ["Strategic planning", "Market entry"],
+      "metrics": ["target_unit_count", "market_priority", "timeline"]
+    },
+    {
+      "term": "high-growth market",
+      "canonical": "Physical Assets > Market > Market Classification",
+      "definition": "Geographic area with strong expansion potential",
+      "related_terms": ["priority market", "growth market"],
+      "use_cases": ["Resource allocation", "Site prioritization"],
+      "metrics": ["population_growth", "income_growth", "competition_level"]
+    }
+  ]
+}

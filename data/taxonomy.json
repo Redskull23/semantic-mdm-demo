@@ -1,0 +1,16 @@
+{
+  "Physical Assets": {
+    "Location": {
+      "Restaurant Location": ["Standalone", "Mall-based", "Drive-thru Only"],
+      "Development Site": ["Pre-construction", "Under Development"]
+    }
+  },
+  "Agreements": {
+    "Real Estate": ["Ground Lease", "Building Lease"],
+    "Franchise": ["Operator Agreement"]
+  },
+  "Business Entities": {
+    "Operator": ["Franchisee"],
+    "Legal Entity": ["Operating Company"]
+  }
+}
